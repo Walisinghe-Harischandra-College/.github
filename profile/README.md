@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="School Loho" width="200px">
+  <img src="logo.png" alt="School Logo" width="200px">
 </p>
 
 <h1 align="center">Walisinghe Harischandra College</h1>
@@ -10,13 +10,19 @@
 
 ---
 
+<p align="center">
+  <img src="banner.jpg" alt="School Banner">
+</p>
+
+---
+
 ## 🌟 Vision
 
-Becoming a Model School in the Field of Public Education.
+ - Becoming a Model School in the Field of Public Education.
 
 ## 🎯 Mission
 
-To Endow the Society with a Person Who Works With a Clear Mind, Mutual Harmony, Moral Pride, Strong Determination & Responsibility
+ - To Endow the Society with a Person Who Works With a Clear Mind, Mutual Harmony, Moral Pride, Strong Determination & Responsibility
 
 ## 📚 On School
 
