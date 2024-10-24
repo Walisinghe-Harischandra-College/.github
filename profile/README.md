@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="School Logo" width="200px">
+  <img src="logo.png" alt="School Logo" width="150px">
 </p>
 
 <h1 align="center">Walisinghe Harischandra College</h1>
