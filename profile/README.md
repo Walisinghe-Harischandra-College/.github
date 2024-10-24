@@ -32,9 +32,9 @@
   
 ## ⚜️ Principal's Message
  - It is a great honour and pleasure to mark the welcome note in our school website. Walisinghe Harischandra National College (WHC) is one of the best public school in Sri Lanka. Since the inception of school in 1956 as a mixed Buddhist School, the past principals tirelessly committed in pursuing the vision of the school to harness and nurture rich ethical values enshrined in Buddhist philosophy.
-   <br>The school has proudly produced thousands of good citizens and great intellectuals who have contributed phenomenal service for the enrichment of nation. At present more than 5000 students are studying under the guidance of well-trained 215 teachers.
-   <br>The school is a great hub for various extracurricular activities including sports, games, performing arts, an array of clubs and societies, projects and events. Our students are our strength and inspiration. The active participation of the old boy association and the school development society are highly commendable.
-   <br>I invite all the well-wishers to join hands with the school and be our strength to move ahead with our motto ‘විදු නැණ මනස පුබුදයි’ – The Education Enlighten the Mind.  
+   <br><br>The school has proudly produced thousands of good citizens and great intellectuals who have contributed phenomenal service for the enrichment of nation. At present more than 5000 students are studying under the guidance of well-trained 215 teachers.
+   <br><br>The school is a great hub for various extracurricular activities including sports, games, performing arts, an array of clubs and societies, projects and events. Our students are our strength and inspiration. The active participation of the old boy association and the school development society are highly commendable.
+   <br><br>I invite all the well-wishers to join hands with the school and be our strength to move ahead with our motto ‘විදු නැණ මනස පුබුදයි’ – The Education Enlighten the Mind.  
 
 ---
 
