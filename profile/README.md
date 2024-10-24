@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="logo.png" alt="School Logo" width="200px">
+  <a href="https://walisinghe.com">
+    <img src="logo.png" alt="School Logo" width="200px">
+  </a>
 </p>
 
 <h1 align="center">Walisinghe Harischandra College</h1>
