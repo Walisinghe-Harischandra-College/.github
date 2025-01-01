@@ -38,4 +38,4 @@
 
 ---
 
-<p align="center">© 2024 Walisinghe Harischandra College. All rights reserved.</p>
+<p align="center">© 2025 Walisinghe Harischandra College. All rights reserved.</p>
