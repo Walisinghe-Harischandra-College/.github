@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="banner.jpg" alt="School Banner">
+  <img src="banner-new.jpg" alt="School Banner">
 </p>
 
 ---
