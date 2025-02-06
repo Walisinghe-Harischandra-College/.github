@@ -13,7 +13,9 @@
 ---
 
 <p align="center">
-  <img src="banner-new.jpg" alt="School Banner">
+  <a href="https://walisinghe.com">
+    <img src="banner-new.jpg" alt="School Banner">
+  </a>
 </p>
 
 ---
